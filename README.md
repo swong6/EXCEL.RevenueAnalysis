@@ -28,6 +28,7 @@ Data cleaning and transformation steps included:
 
 ### Boats.go.com IQR Analysis
 Identified outliers in the daily sales data for Boats.go.com by calculating the IQR (Interquartile Range). Removed duplicates and standardized the data.
+
 ![Boats IQR Analysis](https://github.com/swong6/EXCEL.RevenueAnalysis/blob/main/Baots%20IQR%20Analysis.png)
 
 ### Cars.go.com IQR Analysis
