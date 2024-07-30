@@ -27,16 +27,16 @@ Data cleaning and transformation steps included:
 ## Analysis and Visualizations
 
 ### Boats IQR Analysis
-Identified outliers in the daily sales data for Boats.go.com by calculating the IQR (Interquartile Range). Removed duplicates and standardized the data.
+Identified outliers in the daily sales data for Boats by calculating the IQR (Interquartile Range). Removed duplicates and standardized the data.
 
 ![Boats IQR Analysis](https://github.com/swong6/EXCEL.RevenueAnalysis/blob/main/Baots%20IQR%20Analysis.png)
 
 ### Cars IQR Analysis
-Performed a similar analysis for Cars.go.com. Found no significant outliers.
+Performed a similar analysis for Cars. Found no significant outliers.
 ![Cars IQR Analysis](https://github.com/swong6/EXCEL.RevenueAnalysis/blob/main/Cars%20IQR%20Analysis.png)
 
 ### Planes IQR Analysis
-Detected outliers in the Planes.go.com data and standardized the dataset.
+Detected outliers in the Planes data and standardized the dataset.
 ![Planes IQR Analysis](https://github.com/swong6/EXCEL.RevenueAnalysis/blob/main/Planes%20IQR%20Analysis.png)
 
 ### Descriptive Analytics
@@ -56,9 +56,9 @@ Analyzed weekly revenue trends for each product line to understand sales pattern
 ![Weekly Revenue by Product Line](https://github.com/swong6/EXCEL.RevenueAnalysis/blob/main/Weekly%20Revenue%20by%20Product%20Line.png)
 
 ## Key Findings
-- **Outliers**: Identified multiple outliers in Boats.go.com sales data, indicating unusual spikes and drops.
-- **Missing Data**: Found 24 missing data points in February 2015 for Boats.go.com and filled a crucial missing data point for Q4 2014 in Planes.go.com.
-- **Revenue Trends**: Consistent revenue growth across quarters for Cars.go.com, with significant revenue from Planes.go.com in specific periods.
+- **Outliers**: Identified multiple outliers in Boats sales data, indicating unusual spikes and drops.
+- **Missing Data**: Found 24 missing data points in February 2015 for Boats and filled a crucial missing data point for Q4 2014 in Planes.
+- **Revenue Trends**: Consistent revenue growth across quarters for Cars, with significant revenue from Planes in specific periods.
 - **Profit Margins**: Historical profit margins applied consistently across quarters provided a reliable basis for profit estimation.
 
 ## Conclusion
