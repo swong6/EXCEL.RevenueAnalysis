@@ -1,4 +1,4 @@
-# Go.com 1Q15 Profit Estimation Analysis
+# Profit Estimation Analysis
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -10,13 +10,13 @@
 7. [Resources](#resources)
 
 ## Project Overview
-Analyzed sales data for Go.com to estimate 1Q15 profit, identifying data irregularities and applying historical profit margins. Estimated a profit of $1.93M, showcasing skills in data analysis, anomaly detection, and statistical methods.
+Analyzed sales data for a fictitious company to estimate 1Q15 profit, identifying data irregularities and applying historical profit margins. Estimated a profit of $1.93M, showcasing skills in data analysis, anomaly detection, and statistical methods.
 
 ## Data Source
-The data for this project was sourced from Go.com’s three websites:
-- Cars.go.com
-- Boats.go.com
-- Planes.go.com
+The data for this project was sourced from the company’s three websites of their product lines:
+- Cars
+- Boats
+- Planes
 
 ## Data Preparation
 Data cleaning and transformation steps included:
@@ -62,7 +62,7 @@ Analyzed weekly revenue trends for each product line to understand sales pattern
 - **Profit Margins**: Historical profit margins applied consistently across quarters provided a reliable basis for profit estimation.
 
 ## Conclusion
-By employing observed and historical data, the estimated 1Q15 profit for Go.com is approximately $1,933,128. This analysis involved summing the daily revenues for each product line and applying historical profit margins from the past five quarters. Despite data irregularities, including outliers and missing data points, the dataset appeared reliable overall. Consistent profit margins across quarters provide confidence in the profit estimation, highlighting the importance of thorough data analysis and validation.
+By employing observed and historical data, the estimated 1Q15 profit is approximately $1,933,128. This analysis involved summing the daily revenues for each product line and applying historical profit margins from the past five quarters. Despite data irregularities, including outliers and missing data points, the dataset appeared reliable overall. Consistent profit margins across quarters provide confidence in the profit estimation, highlighting the importance of thorough data analysis and validation.
 
 ---
 
